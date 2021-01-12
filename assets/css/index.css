@@ -162,8 +162,8 @@ body.-loaded {
   left: -5.5vw;
   width: 100%;
   height: 100%;
-  /* -webkit-transform: skewX(-17.3deg);
-  transform: skewX(-17.3deg); */
+  -webkit-transform: skewX(-17.3deg);
+  transform: skewX(-17.3deg);
 }
 .-active .sitetop-caslide_txtmask {
   -webkit-transition: width 0.9s cubic-bezier(0.19, 1, 0.22, 1);
@@ -176,8 +176,8 @@ body.-loaded {
 .sitetop-caslide_txtmaskimg {
   position: relative;
   left: 5.5vw;
-  /* -webkit-transform: skewX(17.3deg);
-  transform: skewX(17.3deg); */
+  -webkit-transform: skewX(17.3deg);
+  transform: skewX(17.3deg);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
@@ -939,13 +939,13 @@ body.-loaded {
   }
   .sitetop-caslide_txtmask {
     left: -2.4%;
-    /* -webkit-transform: skewX(-17.3deg);
-    transform: skewX(-17.3deg); */
+    -webkit-transform: skewX(-17.3deg);
+    transform: skewX(-17.3deg);
   }
   .sitetop-caslide_txtmaskimg {
     left: 2.4%;
-    /* -webkit-transform: skewX(17.3deg);
-    transform: skewX(17.3deg); */
+    -webkit-transform: skewX(17.3deg);
+    transform: skewX(17.3deg);
   }
   .sitetop-caslide_title {
     left: 0;
