@@ -1862,14 +1862,14 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   background: #3287b4;
 }
 .drawer_section {
-  visibility: hidden;
-  position: absolute;
+  /* visibility: hidden; */
+  /* position: absolute; */
   z-index: 1;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 .drawer_directory.-lv1 .drawer_section {
   visibility: visible;
