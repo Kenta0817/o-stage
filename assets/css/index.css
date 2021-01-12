@@ -949,11 +949,11 @@ body.-loaded {
   }
   .sitetop-caslide_title {
     left: 0;
-    margin-top: -1%;
+    margin-top: 1%;
     margin-bottom: 0.71429%;
     width: 58.46906%;
     letter-spacing: 0.25rem;
-    font-size: 12.2rem;
+    font-size: 12rem;
   }
   .sitetop-caslide_title.-image {
     margin-bottom: 2.14286%;
