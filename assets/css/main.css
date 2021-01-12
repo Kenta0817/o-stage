@@ -134,9 +134,6 @@ a {
 a[href^="tel:"]:hover {
   color: #00f;
 }
-main.has-carousel {
-  overflow-x: hidden;
-}
 em {
   font-style: normal;
 }
