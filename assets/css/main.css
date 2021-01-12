@@ -3608,6 +3608,7 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   transition: all 0.3s linear;
   background: white;
   font-size: 0;
+}
 /* ------------------------
   レスポンシブ用
 ------------------------ */
