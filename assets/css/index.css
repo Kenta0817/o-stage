@@ -176,8 +176,8 @@ body.-loaded {
 .sitetop-caslide_txtmaskimg {
   position: relative;
   left: 5.5vw;
-  -webkit-transform: skewX(17.3deg);
-  transform: skewX(17.3deg);
+  /* -webkit-transform: skewX(17.3deg);
+  transform: skewX(17.3deg); */
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
