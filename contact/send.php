@@ -2,11 +2,11 @@
     <head>
         <meta charset="utf-8">
         <title>sample</title>
-        <link rel="stylesheet" href="../assets/css/main.css">
-        <link rel="stylesheet" href="../assets/css/contact/index.css">
-        <link rel="stylesheet" href="../assets/css/contact/index.css">
-        <link rel="stylesheet" href="../assets/css/contact/inquiry/common.css">
-        <link rel="stylesheet" href="../assets/css/contact/inquiry/index.css">
+        <link rel="stylesheet" href="https://kenta0817.github.io/o-stage/assets/css/main.css">
+        <link rel="stylesheet" href="https://kenta0817.github.io/o-stage/assets/css/contact/index.css">
+        <link rel="stylesheet" href="https://kenta0817.github.io/o-stage/assets/css/contact/index.css">
+        <link rel="stylesheet" href="https://kenta0817.github.io/o-stage/assets/css/contact/inquiry/common.css">
+        <link rel="stylesheet" href="https://kenta0817.github.io/o-stage/assets/css/contact/inquiry/index.css">
     </head>
     <body>
         <?php
@@ -70,7 +70,7 @@
                   <button class="p-submitbtn js-toggleActive js-touchhover" type="submit" name="">
                     <span class="p-submitbtn_label">サイトに戻る</span>
                     <svg class="p-btn_icon c-icon -submit">
-                      <use xlink:href="/assets/img/common/sprite.svg#arrow_right"></use>
+                      <use xlink:href="https://kenta0817.github.io/o-stage/assets/img/common/sprite.svg#arrow_right"></use>
                     </svg>
                   </button>
                 </div>
