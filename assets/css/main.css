@@ -5140,6 +5140,10 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   .siteinfo_othernavitem:nth-child(2n) .siteinfo_othernavlink {
     margin-left: 1rem;
   }
+  .header_label {
+    display: block;
+    font-weight: bold;
+  }
 }
 @media (min-width: 1024px) {
   :root {
