@@ -2653,7 +2653,6 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
 }
 .header_logo {
   width: 52.03125vw;
-  /* height: 6.5625vw; */
 }
 .header_container {
   display: -webkit-box;
@@ -4798,8 +4797,7 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
     height: 6.14286vw;
   }
   .header_logo {
-    width: 16.85714vw;
-    /* height: 2.21429vw; */
+    width: 25vw;
   }
   .header_container {
     padding-left: 2.85714vw;
