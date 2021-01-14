@@ -4799,7 +4799,7 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   }
   .header_logo {
     width: 16.85714vw;
-    height: 2.21429vw;
+    /* height: 2.21429vw; */
   }
   .header_container {
     padding-left: 2.85714vw;
