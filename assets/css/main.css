@@ -2651,10 +2651,10 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   -webkit-transition: all 0.7s linear;
   transition: all 0.7s linear;
 }
-.header_logo {
+/* .header_logo {
   width: 52.03125vw;
   height: 6.5625vw;
-}
+} */
 .header_container {
   display: -webkit-box;
   display: -ms-flexbox;
