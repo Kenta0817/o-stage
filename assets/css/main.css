@@ -1263,8 +1263,6 @@ select::-ms-expand {
 .p-carousel_img {
   position: relative;
   width: 100%;
-  -webkit-transform: skewX(17.3deg);
-  transform: skewX(17.3deg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% auto;
@@ -4107,9 +4105,6 @@ input[type="checkbox"]:checked ~ .p-checkbox_icon::before {
   .p-cards.has-md > .p-card {
     width: 28.99023%;
   }
-  /* .p-cards.has-md > .p-card + .p-card {
-    margin-left: 6.51466%;
-  } */
   .p-cards.has-md > .p-card:nth-of-type(n + 4) {
     margin-top: 6.85714vw;
   }
